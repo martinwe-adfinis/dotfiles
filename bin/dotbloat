@@ -61,8 +61,8 @@ if ! ls -1d --color=auto .[!.]*; then
 fi
 
 # automatic decisions for specific files/directories:
-keeplist='.anthy .local .pki .ssh .zshenv'
-deletelist='.ansible .ansible_galaxy .mozilla .*_history'
+keeplist='.anthy .aws .local .pki .ssh .vault-token .zshenv'
+deletelist='.ansible .ansible_galaxy .cache .mozilla .*_history'
 
 # delete:
 for d in .*; do
