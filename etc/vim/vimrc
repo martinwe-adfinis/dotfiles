@@ -65,10 +65,12 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Declare used bundles:
 NeoBundle 'ayekat/dwm.vim'
 NeoBundle 'chikamichi/mediawiki.vim'
+NeoBundle 'jvirtanen/vim-hcl'
 NeoBundle 'milad14000/vim_p4'
 NeoBundle 'mqudsi/meson.vim'
 NeoBundle 'nfnty/vim-nftables'
 NeoBundle 'scrooloose/syntastic'
+NeoBundle 'tangledhelix/vim-kickstart'
 NeoBundle 'vim-scripts/bbcode'
 
 " Initial run requires NeoBundleInstall, as a simple 'Check' won't suffice:
