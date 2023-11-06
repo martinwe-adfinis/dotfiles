@@ -37,6 +37,9 @@
 /totem/
 /xdg-terminals.list
 
+# HashiCorp Packer:
+/packer/
+
 # Krita:
 /karboncalligraphyrc
 /kritadisplayrc
@@ -53,10 +56,6 @@
 # Thunar:
 /Thunar/
 /xfce4/
-
-# Vault/Consul
-/consul.d/
-/vault/
 
 # VirtualBox:
 /QtProject.conf
