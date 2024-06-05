@@ -28,6 +28,9 @@
 /wireshark/
 /xournalpp/
 
+# Bruno:
+/bruno/
+
 # GNOME:
 /dleyna-renderer-service.conf
 /dleyna-server-service.conf
