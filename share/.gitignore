@@ -27,5 +27,8 @@
 # JavaScript
 /pnpm/
 
+# Podman
+/containers/
+
 # Python:
 /virtualenv/
