@@ -31,6 +31,9 @@
 # Bruno:
 /bruno/
 
+# Ember:
+/configstore/ember-cli.json
+
 # GNOME:
 /dleyna-renderer-service.conf
 /dleyna-server-service.conf
