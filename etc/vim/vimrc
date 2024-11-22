@@ -73,6 +73,7 @@ NeoBundle 'scrooloose/syntastic'
 NeoBundle 'tangledhelix/vim-kickstart'
 NeoBundle 'joukevandermaas/vim-ember-hbs'
 NeoBundle 'vim-scripts/bbcode'
+NeoBundle 'ctrlpvim/ctrlp.vim'
 
 " Initial run requires NeoBundleInstall, as a simple 'Check' won't suffice:
 if g:bundleinit
